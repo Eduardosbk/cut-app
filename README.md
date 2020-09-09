@@ -1,3 +1,3 @@
 # Cut-app
-![logo cut](https://github.com/Eduardosbk/cut-app/blob/master/logo.png)
+![logo cut]()
 ## simple app for cuting image
