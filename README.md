@@ -1,5 +1,5 @@
 # Cut-app
-![logo cut](https://github.com/Eduardosbk/cut-app/blob/master/cut.png)
+
 ## Simple app for cuting image
 
 
